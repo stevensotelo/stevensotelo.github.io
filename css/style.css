@@ -168,3 +168,55 @@ body {
     height: 40%;
     text-align: center;
 }
+
+.img-social-network{    
+    background-size: 60px 60px;
+    width: 60px;
+    height: 60px;
+}
+
+.img-social-network:hover{    
+    background-size: 60px 60px;
+    width: 60px;
+    height: 60px;
+}
+
+#img-facebook {
+    background-image: url('../images/facebook_circle_gray.png');
+}
+
+#img-facebook:hover {
+    background-image: url('../images/facebook_circle_color.png');
+}
+
+#img-twitter {
+    background-image: url('../images/twitter_circle_gray.png');
+}
+
+#img-twitter:hover {
+    background-image: url('../images/twitter_circle_color.png');
+}
+
+#img-linkedin {
+    background-image: url('../images/linkedin_circle_gray.png');
+}
+
+#img-linkedin:hover {
+    background-image: url('../images/linkedin_circle_color.png');
+}
+
+#img-github {
+    background-image: url('../images/github_circle_gray.png');
+}
+
+#img-github:hover {
+    background-image: url('../images/github_circle_black.png');
+}
+
+#img-wordpress {
+    background-image: url('../images/wordpress_circle_gray.png');
+}
+
+#img-wordpress:hover {
+    background-image: url('../images/wordpress_circle_black.png');
+}
